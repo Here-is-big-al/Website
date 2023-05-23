@@ -1,1 +1,1 @@
-This is a sample website to use different ascpects of html, css, and js.
+This is a sample website that uses many different ascpects of html and css.
